@@ -1,12 +1,19 @@
 
+
 <h1 class="center">Hi 👋, I am Muhmmd Usama  ✨MuUsama✨</h1> 
 
 ### ABOUT ME
-- 🌱 I’m currently learning Software development
+- 🌱 I’m currently a Full-time Student at [@microverse](https://www.microverse.org/).
 - 💬 Ask me about  Technology, food, and movies
 - 😄 Interests: Volunteering, Technology
+- 👯 I’m looking to collaborate on new projects.
 - 💆🏿‍♀️ Mantra: Live, love, and learn every day! 
 
+
+![Muhmmd's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=muhmmdusama&theme=redical&hide_border=true&area=true)
+| ![Muhmmd's 𝚐𝚒𝚝𝚑𝚞𝚋 stats](https://github-readme-stats.vercel.app/api?username=muhmmdusama&show_icons=true&theme=radical)             | ![Muhmmd's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhmmdusama&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmdusama&langs_count=8&theme=radical&layout=compact) |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
