@@ -8,8 +8,6 @@
 - 💆🏿‍♀️ Mantra: Live, love, and learn every day! 
 
 
-[![Priscilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhmmdusama)](https://github.com/muhmmdusama/github-readme-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/muhmmdusama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhmmdusama" height="30" width="40" /></a>
