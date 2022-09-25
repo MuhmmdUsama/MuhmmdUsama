@@ -19,8 +19,7 @@
 <a href='https://muhmmdusama.github.io/Product-Management-System-CRUDS-Operations-/'> 
 </a>
   
- 
-https://github.com/MuhmmdUsama/Product-Management-System-CRUDS-Operations-/raw/main/00.png
+  https://github.com/MuhmmdUsama/Product-Management-System-CRUDS-Operations-/blob/main/00.png
   
 <br>
 <br>
@@ -45,30 +44,25 @@ https://github.com/MuhmmdUsama/Product-Management-System-CRUDS-Operations-/raw/m
          <hr/> 
 
 <td width="50%">
-<h3 align="center" color="white">Product Management System <br/>(CRUDS Operations)</h3>
+<h3 align="center" color="white">Memory Game</h3>
 <div align="center" >  
-<a href='https://muhmmdusama.github.io/Product-Management-System-CRUDS-Operations-/'> 
-</a>
   
 https://user-images.githubusercontent.com/45886560/182448616-62b0086d-e2d2-4329-9c45-558360d9a54d.mp4 
   
 <br>
 <br>
 <p>
-  <a href="https://github.com/MuhmmdUsama/Product-Management-System-CRUDS-Operations-" target="_blank">
+  <a href="https://github.com/MuhmmdUsama/JS-practice-proj-03-Memory-Game" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
-<a href="https://muhmmdusama.github.io/Product-Management-System-CRUDS-Operations-/" target="_blank">
+<a href="https://muhmmdusama.github.io/JS-practice-proj-03-Memory-Game//" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
 <strong>JavaScript, CSS3, HTML5</strong> 
 <ul>
- <li> A simple product management system allows you to add product Title, Price, Taxes, Ads, Discount, Quantity of products in stock, and Product Category</li>
-<li>Creat or delete or update product info</li>
-<li>Search the product by Title or Category</li>
-<li>Store all product info in Local Storage</li>
-<li>Show how many items are in Local Storage</li>
+ <li>Memory Game, also known as the Concentration card game or Matching Game, <br/> is a simple card game where you need to match pairs by turning over 2 cards at a time.</li>
+
 </ul
 </div>
   
