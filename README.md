@@ -4,7 +4,7 @@
 ### ABOUT ME
 **🌱 I’m currently a Full-time Student at [@microverse](https://www.microverse.org/).**
 
-**🟠 Ask me about  Technology, food, and movies**  https://twitter.com/muhmmdusama
+**🟠 Ask me about  Technology, food, and movies**
 
 **🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhmmdusama/),[Twitter](https://twitter.com/muhmmdusama), <a href="mailto:muhmmdusama@gmail.com" target="_blanck"> Gmail </a>**
 
