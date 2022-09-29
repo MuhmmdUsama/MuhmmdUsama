@@ -40,10 +40,6 @@ https://user-images.githubusercontent.com/45886560/193016977-40f4ceea-6fe0-4277-
 
 <ul>
  <li> A simple product management system allows you to add product Title, Price, Taxes, Ads, Discount, Quantity of products in stock, and Product Category</li>
-<li>Creat or delete or update product info</li>
-<li>Search the product by Title or Category</li>
-<li>Store all product info in Local Storage</li>
-<li>Show how many items are in Local Storage</li>
 </ul
 </td>
 
@@ -73,6 +69,7 @@ https://user-images.githubusercontent.com/45886560/192831533-cc74b20f-e4d0-410b-
 
 </ul
 </td>
+
 </tr>
 
 <tr>
