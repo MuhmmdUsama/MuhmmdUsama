@@ -13,17 +13,15 @@
 **👯 I’m looking to collaborate on new projects.**
 
 <h2 align="center">Highlighted Projects </h2>
+
 <div align="center">
 <table>
 <tr>
-<td width="50%">
-<h3 align="center" color="white">Product Management System <br/>(CRUDS Operations)</h3>
-<div align="center" >  
-<a href='https://muhmmdusama.github.io/Product-Management-System-CRUDS-Operations-/'> 
-</a>
-  
-  ![00](https://user-images.githubusercontent.com/45886560/192822462-a6c24b4c-7fbe-402e-8ac6-fb2cd6843c30.png)
+<td width="45%">
 
+## Product Management System
+
+https://user-images.githubusercontent.com/45886560/193016977-40f4ceea-6fe0-4277-ad4c-ecf58656426e.mp4
   
 <br>
 <br>
@@ -47,13 +45,11 @@
 <li>Store all product info in Local Storage</li>
 <li>Show how many items are in Local Storage</li>
 </ul
-</div>
 </td>
-         <hr/>
 
-<td width="50%">
-<h3 align="center" color="white">Memory Game</h3>
-<div align="center" >    
+<td width="45%">
+
+## ToDo List Webpack
 
 https://user-images.githubusercontent.com/45886560/192831533-cc74b20f-e4d0-410b-bd28-59ddc01a84ec.mp4
 
@@ -76,15 +72,13 @@ https://user-images.githubusercontent.com/45886560/192831533-cc74b20f-e4d0-410b-
  <li>"To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.</li>
 
 </ul
-</div>
 </td>
 </tr>
 
-         <hr/>
 <tr>
-<td width="50%">
-<h3 align="center" color="white">Memory Game</h3>
-<div align="center" >  
+<td width="45%">
+
+## Memory Game
   
 https://user-images.githubusercontent.com/45886560/182448616-62b0086d-e2d2-4329-9c45-558360d9a54d.mp4 
   
@@ -106,13 +100,12 @@ https://user-images.githubusercontent.com/45886560/182448616-62b0086d-e2d2-4329-
 <ul>
  <li>Memory Game, also known as the Concentration card game or Matching Game, <br/> is a simple card game where you need to match pairs by turning over 2 cards at a time.</li>
 
-</ul
-</div>
-   
+</ul   
 </td>
+
 </tr>
 <table>
-
+</div>
   
 ![Muhmmd's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=muhmmdusama&theme=redical&hide_border=true&area=true)
 | ![Muhmmd's 𝚐𝚒𝚝𝚑𝚞𝚋 stats](https://github-readme-stats.vercel.app/api?username=muhmmdusama&show_icons=true&theme=radical)             | ![Muhmmd's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhmmdusama&theme=radical)                                                                                                           |
