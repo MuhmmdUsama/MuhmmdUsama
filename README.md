@@ -100,6 +100,33 @@ https://user-images.githubusercontent.com/45886560/182448616-62b0086d-e2d2-4329-
 </ul   
 </td>
 
+<td width="45%">
+
+## Capstone Cloud Hosting
+  
+https://user-images.githubusercontent.com/45886560/194756833-1a1a3bd0-4314-4bd8-b890-0b59f90913b6.mp4
+
+<br>
+<br>
+<p>
+  <a href="https://github.com/MuhmmdUsama/Capstone-Cloud-Hosting" target="_blank">
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+<a href="https://muhmmdusama.github.io/Capstone-Cloud-Hosting/#" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Tech Used
+
+[![Tech Used](https://skillicons.dev/icons?i=javascript,html,css,vscode)](https://skillicons.dev)
+
+<ul>
+ <li>Cloud hosting makes applications and websites accessible using cloud resources. Unlike traditional hosting, solutions are not deployed on a single server. Instead, a network of connected virtual and physical cloud servers hosts the application or website, ensuring greater flexibility and scalability..</li>
+
+</ul   
+</td>
+
 </tr>
 <table>
 </div>
