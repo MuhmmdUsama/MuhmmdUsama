@@ -17,7 +17,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="45%">
+<td width="50%">
 
 ## Product Management System
 
@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/45886560/193016977-40f4ceea-6fe0-4277-
 </ul
 </td>
 
-<td width="45%">
+<td width="50%">
 
 ## ToDo List Webpack
 
@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/45886560/192831533-cc74b20f-e4d0-410b-
 </tr>
 
 <tr>
-<td width="45%">
+<td width="50%">
 
 ## Memory Game
   
@@ -100,7 +100,7 @@ https://user-images.githubusercontent.com/45886560/182448616-62b0086d-e2d2-4329-
 </ul   
 </td>
 
-<td width="45%">
+<td width="50%">
 
 ## Capstone Cloud Hosting
   
