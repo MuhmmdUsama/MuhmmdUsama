@@ -12,6 +12,10 @@
 
 **👯 I’m looking to collaborate on new projects.**
 
+<p>
+	<img src="https://komarev.com/ghpvc/?username=muhmmdusama&color=blue&style=flat-square&label=Profile+Views" />
+</p>
+
 <h2 align="center">Highlighted Projects </h2>
 
 <div align="center">
