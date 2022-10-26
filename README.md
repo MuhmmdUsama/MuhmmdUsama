@@ -136,9 +136,11 @@ https://user-images.githubusercontent.com/45886560/194756833-1a1a3bd0-4314-4bd8-
 </div>
   
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=muhmmdusama&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="muhmmdusama github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmdusama&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" />
+  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api?username=muhmmdusama&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="muhmmdusama github stats" /> 
+  
+  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmdusama&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" />
 </div>
+
   <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhmmdusama&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="muhmmdusama" /></div>
 
 
