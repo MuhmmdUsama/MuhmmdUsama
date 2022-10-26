@@ -135,12 +135,15 @@ https://user-images.githubusercontent.com/45886560/194756833-1a1a3bd0-4314-4bd8-
 <table>
 </div>
   
-![Muhmmd's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=muhmmdusama&theme=redical&hide_border=true&area=true)
-| ![Muhmmd's 𝚐𝚒𝚝𝚑𝚞𝚋 stats](https://github-readme-stats.vercel.app/api?username=muhmmdusama&show_icons=true&theme=radical)             | ![Muhmmd's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhmmdusama&theme=radical)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmdusama&langs_count=8&theme=radical&layout=compact) |
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=muhmmdusama&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="muhmmdusama github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmdusama&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" />
+</div>
+  <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhmmdusama&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="muhmmdusama" /></div>
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,javascript,html,css,scss,bootstrap,jest,webpack,postgresql,ruby,rails,markdown,figma,vscode,github,vercel,bash)](https://skillicons.dev)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b2b2b2&height=120&section=footer"/>
